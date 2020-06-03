@@ -1,4 +1,4 @@
 # Pizzaria Express
 
-### Desenvolvido por:
+## Desenvolvido por:
 *Gustavo Aveloes de Paulo
